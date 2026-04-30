@@ -41,7 +41,7 @@ Planned features:
 
 Repository:
 
-- Coming soon: `job-application-tracker`
+- [job-application-tracker](https://github.com/Leo-Xiaoyi/job-application-tracker)
 
 ## Technical Strengths
 

@@ -1,128 +1,89 @@
 # Hi, I'm Leo Yu
 
-I'm an early-career software developer based in New Zealand, currently completing a Master of Information Technology at the University of Waikato.
+I'm an early-career Software / AI Application Developer based in New Zealand, currently completing a Master of Information Technology at the University of Waikato.
 
-I have a strong computer science foundation, with experience in AI/deep learning projects, systems-level programming, and a New Zealand industry internship. I'm particularly interested in building practical software systems that combine full-stack engineering with LLM-powered applications, AI-assisted workflows, and retrieval-based knowledge tools.
+My background combines computer science fundamentals, AI/deep learning project experience, systems-level programming, and hands-on software development. I'm particularly interested in building practical applications that connect full-stack engineering with LLM-powered features, AI-assisted workflows, and retrieval-based knowledge tools.
 
 ## Current Focus
 
-I'm currently strengthening my full-stack and AI application development skills through a practical project-based roadmap.
+I'm currently strengthening my software engineering and AI application development skills through practical, project-based learning.
 
 Areas I'm working on:
 
+- LLM-powered application development and AI-assisted workflows
+- Retrieval-Augmented Generation and AI Agent fundamentals
 - TypeScript, React, Next.js, Node.js, and Express
-- REST API design and backend development
-- PostgreSQL, Prisma, and database modelling
-- Authentication, testing, and deployment
-- LLM API integration and AI-assisted application features
-- RAG fundamentals and retrieval-based application design
+- REST API design, backend development, and database modelling
+- PostgreSQL, Prisma, authentication, testing, and deployment
+- Systems-level foundations including Linux, C/C++, computer architecture, and compiler principles
 
-## Featured Project in Progress
+## Featured Projects
 
 ### Job Application Tracker with AI Assistance
 
-A full-stack application for managing job applications, tracking application statuses, analysing job descriptions, and generating AI-assisted cover letter drafts.
+A full-stack application for managing job applications, tracking application statuses, saving job descriptions, and generating AI-assisted cover letter drafts.
 
-Current stage:
+Current development focus:
 
-- Building the TypeScript CLI prototype
-- Designing the backend API structure
-- Planning PostgreSQL data models with Prisma
-- Preparing future AI features for job description analysis and cover letter assistance
+- TypeScript CLI prototype
+- Backend API design
+- PostgreSQL data modelling with Prisma
+- Frontend dashboard with React / Next.js
+- AI-assisted job description analysis and cover letter draft generation
 
-Planned features:
+### RAG / AI Agent Project
 
-- Application status tracking
-- Notes and follow-up reminders
-- Job description skill extraction
-- Resume-to-job matching summary
-- AI-assisted cover letter draft generation
-- Search, filter, and dashboard views
+A practical AI application project focused on retrieval-based question answering and agent-style workflows.
 
-Repository:
+Planned development focus:
 
-- [job-application-tracker](https://github.com/Leo-Xiaoyi/job-application-tracker)
+- Document loading and chunking
+- Embeddings and vector search
+- Retrieval-Augmented Generation pipeline
+- LLM prompt design and structured outputs
+- Basic agent workflow with tool use or multi-step reasoning
+- Deployment-ready project documentation
 
 ## Technical Strengths
 
 ### Software Development
 
-- TypeScript, JavaScript, Python, C/C++
-- Object-oriented programming
-- Data structures and algorithms
-- Backend API design
-
-### Web Development
-
+- TypeScript, JavaScript, Python, C, C++
 - React, Next.js, Node.js, Express
-- REST APIs
-- Tailwind CSS
-- PostgreSQL and Prisma
-- Git and GitHub
+- REST APIs, backend development, database-backed applications
+- Git, GitHub, VS Code, Docker fundamentals
 
 ### AI / LLM Applications
 
+- PyTorch, HuggingFace, LLaMA2
+- Diffusion models and multimodal generation
 - LLM API integration
-- AI-assisted workflows
 - RAG fundamentals
-- PyTorch and HuggingFace
-- LLaMA2, diffusion models, and multimodal generation experience
+- AI-assisted application features and workflow design
 
 ### Systems Foundation
 
+- Linux
 - Operating systems
 - Computer architecture
 - Compiler principles
-- Linux development
-- RISC-V, LLVM/Clang, Verilog
-
-## Selected Projects
-
-### Waikato DigiTech Ecosystem Map
-
-A New Zealand industry internship project focused on mapping and visualising the Waikato digital technology ecosystem.
-
-Focus areas:
-
-- Data organisation
-- Ecosystem mapping
-- Web-based presentation
-- Stakeholder-focused technical communication
-
-### Diffusion Model Story Generation System
-
-An AI/deep learning project exploring story generation using diffusion-based and multimodal generation techniques.
-
-Focus areas:
-
-- Deep learning experimentation
-- Text and image generation
-- Model evaluation
-- Research-oriented implementation
-
-### Systems and Low-Level Programming Projects
-
-A collection of projects and coursework related to systems programming, computer architecture, compilers, and low-level development.
-
-Focus areas:
-
-- C/C++ programming
-- Linux systems
-- Compiler and architecture fundamentals
-- RISC-V and LLVM/Clang-related work
+- RISC-V
+- LLVM / Clang
+- Verilog
 
 ## Currently Looking For
 
-I'm currently looking for junior, graduate, or internship opportunities in New Zealand in areas such as:
+I'm open to early-career opportunities in New Zealand, especially roles related to:
 
-- Software development
-- Full-stack development
-- Backend engineering
-- AI-assisted software applications
-- LLM application development
-- AI agent / RAG application development
+- Software Development
+- AI Application Development
+- LLM Application Development
+- Backend Engineering
+- Full-stack Development
+- Graduate Software Engineering
+- Junior Developer roles
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/xiaoyiyu-leo/
-- Location: New Zealand
+- LinkedIn: https://linkedin.com/in/xiaoyiyu-leo
+- GitHub: https://github.com/Leo-Xiaoyi

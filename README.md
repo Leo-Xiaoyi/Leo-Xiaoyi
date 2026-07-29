@@ -1,89 +1,55 @@
 # Hi, I'm Leo Yu
 
-I'm an early-career Software / AI Application Developer based in New Zealand, currently completing a Master of Information Technology at the University of Waikato.
+I am an early-career **AI Application Developer** based in Hamilton, New Zealand, and a Master of Information Technology graduate from the University of Waikato.
 
-My background combines computer science fundamentals, AI/deep learning project experience, systems-level programming, and hands-on software development. I'm particularly interested in building practical applications that connect full-stack engineering with LLM-powered features, AI-assisted workflows, and retrieval-based knowledge tools.
+I am interested in building practical, reliable AI-enabled products: applications that combine strong software engineering with LLMs, retrieval, and agent-style workflows. I also bring experience delivering a client-facing web platform in Aotearoa and a foundation in multimodal AI and systems programming.
 
 ## Current Focus
 
-I'm currently strengthening my software engineering and AI application development skills through practical, project-based learning.
+I am building practical capability in:
 
-Areas I'm working on:
+- LLM application development and AI-assisted workflows
+- Retrieval-Augmented Generation (RAG) and AI-agent fundamentals
+- TypeScript, React, Next.js, Node.js, REST APIs, and databases
+- Python, model evaluation, and multimodal AI pipelines
+- Writing maintainable, well-documented software and learning in public
 
-- LLM-powered application development and AI-assisted workflows
-- Retrieval-Augmented Generation and AI Agent fundamentals
-- TypeScript, React, Next.js, Node.js, and Express
-- REST API design, backend development, and database modelling
-- PostgreSQL, Prisma, authentication, testing, and deployment
-- Systems-level foundations including Linux, C/C++, computer architecture, and compiler principles
+## Selected Work
 
-## Featured Projects
+### [Waikato Digital & Tech Ecosystem](https://github.com/Leo-Xiaoyi/WDT-Ecosys)
 
-### Job Application Tracker with AI Assistance
+A client-facing web platform delivered as a three-person University of Waikato industry project.
 
-A full-stack application for managing job applications, tracking application statuses, saving job descriptions, and generating AI-assisted cover letter drafts.
+- Built the responsive frontend with Next.js, TypeScript, and Tailwind CSS
+- Delivered a searchable directory for 300+ organisations, interactive map features, and integrated forms
+- Participated in client demonstrations, feedback cycles, and final handover
 
-Current development focus:
+### [Job Application Tracker](https://github.com/Leo-Xiaoyi/job-application-tracker)
 
-- TypeScript CLI prototype
-- Backend API design
-- PostgreSQL data modelling with Prisma
-- Frontend dashboard with React / Next.js
-- AI-assisted job description analysis and cover letter draft generation
+An in-progress TypeScript portfolio project for managing job applications and developing an AI-assisted job-search workflow.
 
-### RAG / AI Agent Project
+Current work includes a CLI prototype, application data model, local persistence, and a staged roadmap toward a web dashboard and AI features.
 
-A practical AI application project focused on retrieval-based question answering and agent-style workflows.
+### AI Application Learning Project
 
-Planned development focus:
+I am currently studying agent-development patterns through hands-on learning and will publish an independently built AI application here as it reaches a usable, documented milestone.
 
-- Document loading and chunking
-- Embeddings and vector search
-- Retrieval-Augmented Generation pipeline
-- LLM prompt design and structured outputs
-- Basic agent workflow with tool use or multi-step reasoning
-- Deployment-ready project documentation
+## Technical Foundation
 
-## Technical Strengths
+- **AI / ML:** Python, PyTorch, Hugging Face, Diffusers, LLaMA2, CLIP, BLIP, data preparation, model evaluation
+- **Software:** TypeScript, JavaScript, React, Next.js, Node.js, REST APIs, Git, Linux, Docker
+- **Systems:** C/C++, RISC-V, operating systems, computer architecture, LLVM/Clang, Verilog
 
-### Software Development
+## Looking For
 
-- TypeScript, JavaScript, Python, C, C++
-- React, Next.js, Node.js, Express
-- REST APIs, backend development, database-backed applications
-- Git, GitHub, VS Code, Docker fundamentals
+I am open to early-career opportunities in New Zealand, especially:
 
-### AI / LLM Applications
-
-- PyTorch, HuggingFace, LLaMA2
-- Diffusion models and multimodal generation
-- LLM API integration
-- RAG fundamentals
-- AI-assisted application features and workflow design
-
-### Systems Foundation
-
-- Linux
-- Operating systems
-- Computer architecture
-- Compiler principles
-- RISC-V
-- LLVM / Clang
-- Verilog
-
-## Currently Looking For
-
-I'm open to early-career opportunities in New Zealand, especially roles related to:
-
-- Software Development
 - AI Application Development
-- LLM Application Development
-- Backend Engineering
-- Full-stack Development
-- Graduate Software Engineering
-- Junior Developer roles
+- Junior AI Engineering
+- Graduate / Junior Software Engineering
+- LLM-enabled product development
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/xiaoyiyu-leo
-- GitHub: https://github.com/Leo-Xiaoyi
+- [LinkedIn](https://www.linkedin.com/in/xiaoyiyu-leo/)
+- [Email](mailto:yxy001022@gmail.com)

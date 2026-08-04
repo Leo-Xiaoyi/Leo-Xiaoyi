@@ -1,6 +1,6 @@
 # Hi, I'm Leo Yu
 
-I am an early-career software developer based in Hamilton, New Zealand, and a Master of Information Technology graduate from the University of Waikato.
+I am an early-career software developer based in New Zealand, and a Master of Information Technology graduate from the University of Waikato.
 
 I am interested in practical software engineering, AI-enabled applications, and systems that connect code with real-world use. My background includes full-stack university and client projects, an applied multimodal AI thesis, and computer science foundations in operating systems, compilers, and computer architecture.
 

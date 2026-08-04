@@ -1,17 +1,17 @@
 # Hi, I'm Leo Yu
 
-I am an early-career **AI Application Developer** based in Hamilton, New Zealand, and a Master of Information Technology graduate from the University of Waikato.
+I am an early-career software developer based in Hamilton, New Zealand, and a Master of Information Technology graduate from the University of Waikato.
 
-I am interested in building practical, reliable AI-enabled products: applications that combine strong software engineering with LLMs, retrieval, and agent-style workflows. I also bring experience delivering a client-facing web platform in Aotearoa and a foundation in multimodal AI and systems programming.
+I am interested in practical software engineering, AI-enabled applications, and systems that connect code with real-world use. My background includes full-stack university and client projects, an applied multimodal AI thesis, and computer science foundations in operating systems, compilers, and computer architecture.
 
 ## Current Focus
 
 I am building practical capability in:
 
-- LLM application development and AI-assisted workflows
-- Retrieval-Augmented Generation (RAG) and AI-agent fundamentals
 - TypeScript, React, Next.js, Node.js, REST APIs, and databases
-- Python, model evaluation, and multimodal AI pipelines
+- Python, data processing, model evaluation, and multimodal AI pipelines
+- C/C++, operating-system concepts, and systems programming foundations
+- LLM application development, RAG, and AI-assisted workflows
 - Writing maintainable, well-documented software and learning in public
 
 ## Selected Work
@@ -24,19 +24,39 @@ A client-facing web platform delivered as a three-person University of Waikato i
 - Delivered a searchable directory for 300+ organisations, interactive map features, and integrated forms
 - Participated in client demonstrations, feedback cycles, and final handover
 
+### [UniKiwi Connect](https://github.com/Leo-Xiaoyi/UniKiwi-Connect)
+
+A full-stack university course project for international students in New Zealand.
+
+- Built a React frontend connected to a Node.js/Express API and MongoDB database
+- Implemented posts, comments, likes, search/filtering, account login, and bilingual interface text
+- Used the project to practise end-to-end data flow, authentication basics, and frontend/backend debugging
+
+### [Storybook Image Generation With ARLDM](https://github.com/Leo-Xiaoyi/ai-storybook-generation-arldm)
+
+An undergraduate thesis portfolio project exploring storybook image sequence generation.
+
+- Adapted an ARLDM-based workflow to a custom Oxford Tree storybook dataset
+- Built preprocessing scripts, HDF5 data conversion, training/sampling configuration, and evaluation notes
+- Developed practical experience reading research code and debugging Python/PyTorch pipelines
+
+### [UCAS RISC-V Operating System Labs](https://github.com/Leo-Xiaoyi/ucas-os-riscv-lab)
+
+Curated educational operating system lab snapshots from the UCAS RISC-V OS course.
+
+- Worked through topics including boot flow, scheduling, synchronization, virtual memory, device-driver concepts, and file-system logic
+- Used C, RISC-V assembly, QEMU, and Linux-based tooling
+- Useful as evidence of systems programming foundations for graduate software roles
+
 ### [Job Application Tracker](https://github.com/Leo-Xiaoyi/job-application-tracker)
 
-An in-progress TypeScript portfolio project for managing job applications and developing an AI-assisted job-search workflow.
+An early-stage TypeScript CLI prototype for a planned full-stack job application tracker with future AI-assisted features.
 
-Current work includes a CLI prototype, application data model, local persistence, and a staged roadmap toward a web dashboard and AI features.
-
-### AI Application Learning Project
-
-I am currently studying agent-development patterns through hands-on learning and will publish an independently built AI application here as it reaches a usable, documented milestone.
+Current work includes a CLI prototype, application data model, local JSON persistence, and a staged roadmap toward a web dashboard and AI-assisted job description analysis.
 
 ## Technical Foundation
 
-- **AI / ML:** Python, PyTorch, Hugging Face, Diffusers, LLaMA2, CLIP, BLIP, data preparation, model evaluation
+- **AI / ML:** Python, PyTorch, Hugging Face, Diffusers, CLIP, BLIP, data preparation, model evaluation
 - **Software:** TypeScript, JavaScript, React, Next.js, Node.js, REST APIs, Git, Linux, Docker
 - **Systems:** C/C++, RISC-V, operating systems, computer architecture, LLVM/Clang, Verilog
 
@@ -44,10 +64,10 @@ I am currently studying agent-development patterns through hands-on learning and
 
 I am open to early-career opportunities in New Zealand, especially:
 
-- AI Application Development
-- Junior AI Engineering
 - Graduate / Junior Software Engineering
+- AI Application Development
 - LLM-enabled product development
+- Full-stack or backend/frontend-adjacent graduate roles
 
 ## Contact
 

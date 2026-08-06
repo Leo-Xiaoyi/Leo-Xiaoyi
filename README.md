@@ -40,6 +40,14 @@ An undergraduate thesis portfolio project exploring storybook image sequence gen
 - Built preprocessing scripts, HDF5 data conversion, training/sampling configuration, and evaluation notes
 - Developed practical experience reading research code and debugging Python/PyTorch pipelines
 
+### [LoongArch32 Five-Stage Pipelined CPU](https://github.com/Leo-Xiaoyi/LoongArch-CPU)
+
+A computer architecture coursework snapshot of a Verilog LoongArch32 Reduced CPU core.
+
+- Implemented a single-issue five-stage pipeline with IF, ID, EXE, MEM, and WB stages
+- Worked on pipeline control, hazard handling, forwarding, instruction extension, CSR, and exception paths
+- Published the core source as a curated snapshot while keeping course test assets and reports out of Git
+
 ### [UCAS RISC-V Operating System Labs](https://github.com/Leo-Xiaoyi/ucas-os-riscv-lab)
 
 Curated educational operating system lab snapshots from the UCAS RISC-V OS course.

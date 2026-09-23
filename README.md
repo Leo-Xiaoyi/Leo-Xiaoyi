@@ -1,24 +1,28 @@
 # Hi, I'm Leo Yu
 
-I am an early-career software developer based in New Zealand, and a Master of Information Technology graduate from the University of Waikato.
+I focus on AI agents and practical LLM applications, with a supporting background in multimodal AI, software development, and systems engineering. I'm based in New Zealand and hold a Master of Information Technology from the University of Waikato.
 
-I am interested in practical software engineering, AI-enabled applications, and systems that connect code with real-world use. My background includes full-stack university and client projects, an applied multimodal AI thesis, and computer science foundations in operating systems, compilers, and computer architecture.
+## Core Skills
 
-## Current Focus
-
-I am building practical capability in:
-
-- TypeScript, React, Next.js, Node.js, REST APIs, and databases
-- Python, data processing, model evaluation, and multimodal AI pipelines
-- C/C++, operating-system concepts, and systems programming foundations
-- LLM application development, RAG, and AI-assisted workflows
-- Writing maintainable, well-documented software and learning in public
+- **Agent & LLM applications — Familiar with:** RAG, tool/function calling, LangChain, LangGraph, MCP, embeddings, vector search, prompt and context engineering, short- and long-term memory, agent evaluation and guardrails, multi-agent orchestration, ReAct, and Plan-and-Solve.
+- **AI development tools — Proficient with:** Cursor, OpenAI Codex, Claude Code, Gemini, DeepSeek, and ChatGPT; structured AI-assisted workflows, reusable Skills, independent review, and validation.
+- **Software & full-stack:** Python, TypeScript, JavaScript, React, Next.js, Node.js/Express, REST APIs, MongoDB, Git, and Linux.
+- **Applied AI & multimodal:** PyTorch, PyTorch Lightning, Hugging Face Diffusers, CLIP, BLIP, data preparation, model adaptation, training/sampling, and evaluation.
+- **Systems foundations:** C/C++, operating systems, RISC-V, computer architecture, LLVM/Clang, and Verilog.
 
 ## Selected Work
 
+### [Storybook Image Generation With ARLDM](https://github.com/Leo-Xiaoyi/ai-storybook-generation-arldm)
+
+An applied multimodal project exploring storybook image sequence generation.
+
+- Adapted an ARLDM-based workflow to a custom Oxford Tree storybook dataset
+- Built preprocessing scripts, HDF5 data conversion, training/sampling configuration, and evaluation notes
+- Developed practical experience reading research code and debugging Python/PyTorch pipelines
+
 ### [Waikato Digital & Tech Ecosystem](https://github.com/Leo-Xiaoyi/WDT-Ecosys)
 
-A client-facing web platform delivered as a three-person University of Waikato industry project.
+A team-delivered client project for the Waikato digital and tech ecosystem.
 
 - Built the responsive frontend with Next.js, TypeScript, and Tailwind CSS
 - Delivered a searchable directory for 300+ organisations, interactive map features, and integrated forms
@@ -26,23 +30,15 @@ A client-facing web platform delivered as a three-person University of Waikato i
 
 ### [UniKiwi Connect](https://github.com/Leo-Xiaoyi/UniKiwi-Connect)
 
-A full-stack university course project for international students in New Zealand.
+A full-stack community-app prototype for international students in New Zealand.
 
 - Built a React frontend connected to a Node.js/Express API and MongoDB database
 - Implemented posts, comments, likes, search/filtering, account login, and bilingual interface text
 - Used the project to practise end-to-end data flow, authentication basics, and frontend/backend debugging
 
-### [Storybook Image Generation With ARLDM](https://github.com/Leo-Xiaoyi/ai-storybook-generation-arldm)
-
-An undergraduate thesis portfolio project exploring storybook image sequence generation.
-
-- Adapted an ARLDM-based workflow to a custom Oxford Tree storybook dataset
-- Built preprocessing scripts, HDF5 data conversion, training/sampling configuration, and evaluation notes
-- Developed practical experience reading research code and debugging Python/PyTorch pipelines
-
 ### [LoongArch32 Five-Stage Pipelined CPU](https://github.com/Leo-Xiaoyi/LoongArch-CPU)
 
-A computer architecture coursework snapshot of a Verilog LoongArch32 Reduced CPU core.
+An educational Verilog implementation of a LoongArch32 Reduced CPU core.
 
 - Implemented a single-issue five-stage pipeline with IF, ID, EXE, MEM, and WB stages
 - Worked on pipeline control, hazard handling, forwarding, instruction extension, CSR, and exception paths
@@ -50,7 +46,7 @@ A computer architecture coursework snapshot of a Verilog LoongArch32 Reduced CPU
 
 ### [UCAS RISC-V Operating System Labs](https://github.com/Leo-Xiaoyi/ucas-os-riscv-lab)
 
-Curated educational operating system lab snapshots from the UCAS RISC-V OS course.
+Curated educational RISC-V operating-system lab snapshots.
 
 - Worked through topics including boot flow, scheduling, synchronization, virtual memory, device-driver concepts, and file-system logic
 - Used C, RISC-V assembly, QEMU, and Linux-based tooling
@@ -62,19 +58,17 @@ An early-stage TypeScript CLI prototype for a planned full-stack job application
 
 Current work includes a CLI prototype, application data model, local JSON persistence, and a staged roadmap toward a web dashboard and AI-assisted job description analysis.
 
-## Technical Foundation
+## Professional Development
 
-- **AI / ML:** Python, PyTorch, Hugging Face, Diffusers, CLIP, BLIP, data preparation, model evaluation
-- **Software:** TypeScript, JavaScript, React, Next.js, Node.js, REST APIs, Git, Linux, Docker
-- **Systems:** C/C++, RISC-V, operating systems, computer architecture, LLVM/Clang, Verilog
+Completed the Datawhale Hello-Agents tutorial. The [public learning repository](https://github.com/Leo-Xiaoyi/hello-agents-learning-lab) contains selected early exercises, not an implementation of every chapter or a production Agent platform.
 
 ## Looking For
 
 I am open to early-career opportunities in New Zealand, especially:
 
+- Graduate / Junior AI Agent and LLM Application Development
+- Applied AI Development
 - Graduate / Junior Software Engineering
-- AI Application Development
-- LLM-enabled product development
 - Full-stack or backend/frontend-adjacent graduate roles
 
 ## Contact

@@ -18,7 +18,7 @@ An applied multimodal project exploring storybook image sequence generation.
 
 - Adapted an ARLDM-based workflow to a custom Oxford Tree storybook dataset
 - Built preprocessing scripts, HDF5 data conversion, training/sampling configuration, and evaluation notes
-- Developed practical experience reading research code and debugging Python/PyTorch pipelines
+- Investigated research code and debugged Python/PyTorch training and sampling pipelines
 
 ### [Waikato Digital & Tech Ecosystem](https://github.com/Leo-Xiaoyi/WDT-Ecosys)
 
@@ -34,7 +34,7 @@ A full-stack community-app prototype for international students in New Zealand.
 
 - Built a React frontend connected to a Node.js/Express API and MongoDB database
 - Implemented posts, comments, likes, search/filtering, account login, and bilingual interface text
-- Used the project to practise end-to-end data flow, authentication basics, and frontend/backend debugging
+- Connected frontend and backend data flows and debugged authentication and application features
 
 ### [LoongArch32 Five-Stage Pipelined CPU](https://github.com/Leo-Xiaoyi/LoongArch-CPU)
 
@@ -50,7 +50,7 @@ Curated educational RISC-V operating-system lab snapshots.
 
 - Worked through topics including boot flow, scheduling, synchronization, virtual memory, device-driver concepts, and file-system logic
 - Used C, RISC-V assembly, QEMU, and Linux-based tooling
-- Useful as evidence of systems programming foundations for graduate software roles
+- Explored operating-system design and implementation across the lab series
 
 ### [Job Application Tracker](https://github.com/Leo-Xiaoyi/job-application-tracker)
 
@@ -60,16 +60,11 @@ Current work includes a CLI prototype, application data model, local JSON persis
 
 ## Professional Development
 
-Completed the Datawhale Hello-Agents tutorial. The [public learning repository](https://github.com/Leo-Xiaoyi/hello-agents-learning-lab) contains selected early exercises, not an implementation of every chapter or a production Agent platform.
+Completed the Datawhale Hello-Agents tutorial, covering Agent patterns, RAG, tool use, memory, evaluation, and multi-agent workflows. [Learning notes and exercises](https://github.com/Leo-Xiaoyi/hello-agents-learning-lab).
 
 ## Looking For
 
-I am open to early-career opportunities in New Zealand, especially:
-
-- Graduate / Junior AI Agent and LLM Application Development
-- Applied AI Development
-- Graduate / Junior Software Engineering
-- Full-stack or backend/frontend-adjacent graduate roles
+Interested in AI Agent and LLM application development, applied AI, and software/full-stack engineering opportunities in New Zealand.
 
 ## Contact
 

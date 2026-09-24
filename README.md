@@ -14,18 +14,19 @@ I focus on AI agents and practical LLM applications, with a supporting backgroun
 
 ### [Storybook Image Generation With ARLDM](https://github.com/Leo-Xiaoyi/ai-storybook-generation-arldm)
 
-An applied multimodal project exploring storybook image sequence generation.
+An applied multimodal thesis workflow generating storybook image sequences from LLaMA2-7B story text and an adapted ARLDM image model.
 
-- Adapted an ARLDM-based workflow to a custom Oxford Tree storybook dataset
-- Built preprocessing scripts, HDF5 data conversion, training/sampling configuration, and evaluation notes
-- Investigated research code and debugged Python/PyTorch training and sampling pipelines
+- Built a CLI-based LLaMA2-7B story-text stage and adapted ARLDM to a custom Oxford Reading Tree dataset
+- Prepared paired image-text data and five-frame HDF5 sequences for training and sampling
+- Ran and debugged GPU experiments, compared outputs with SDXL V1.0, and evaluated story-sequence quality
 
 ### [Waikato Digital & Tech Ecosystem](https://github.com/Leo-Xiaoyi/WDT-Ecosys)
 
 A team-delivered client project for the Waikato digital and tech ecosystem.
 
 - Built the responsive frontend with Next.js, TypeScript, and Tailwind CSS
-- Delivered a searchable directory for 300+ organisations, interactive map features, and integrated forms
+- Built a searchable directory for 300+ organisations and interactive map features
+- Implemented Join, Contact, and Opt-out form interfaces with client-side validation; collaborated with the backend teammate on submission integration
 - Participated in client demonstrations, feedback cycles, and final handover
 
 ### [UniKiwi Connect](https://github.com/Leo-Xiaoyi/UniKiwi-Connect)
